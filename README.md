@@ -90,11 +90,10 @@ Walmart-Sales-Forecasting/
 
 ---
 
-## ✅ Next Steps
+## ✅ Comparison
 
-- Add Random Forest/XGBoost model for performance comparison
-- Build a Power BI dashboard from the same dataset
-- Prepare for deployment or dashboarding
+- Random Forest/XGBoost model for performance comparison
+
 
 ---
 
